@@ -1,4 +1,3 @@
-# ATM-simulator
 import java.util.Scanner;
 public class project_ATM {
     public static void main(String[] args) {
